@@ -1,6 +1,6 @@
 # uBus
 
-A Bus Seats Booking App for buses built using Flutter framework.
+A Bus Seats Booking Application built using Flutter framework.
 
 Screenshots:
 
